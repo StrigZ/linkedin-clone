@@ -1,4 +1,4 @@
-Live Website [linkedin-clone-dce00.web.app]
+[Live Website](linkedin-clone-dce00.web.app)
 
 
 # Getting Started with Create React App and Redux
