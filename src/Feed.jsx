@@ -97,8 +97,8 @@ const Feed = () => {
         ))}
       </FlipMove>
       <Post
-        name="Sonny Sangha"
-        description="This is a description"
+        name="Mirgasan"
+        description="Software Engineer"
         message="Wow this worked!"
         photoUrl=""
       />
